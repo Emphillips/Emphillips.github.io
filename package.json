@@ -1,0 +1,19 @@
+{
+  "name": "portfolio_site_two",
+  "version": "1.0.0",
+  "description": "Flynn - a free template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emphillips/portfolio_site_two.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emphillips/portfolio_site_two/issues"
+  },
+  "homepage": "https://github.com/Emphillips/portfolio_site_two#readme"
+}
