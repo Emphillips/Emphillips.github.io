@@ -204,11 +204,18 @@ padding-top: 33px;
 #acaID img {
     padding-top: 30px;
 }
-.row h1 {
+.rowcard {
+    padding-top: 40px;
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+    text-align: center;
+  }
+.rowcard h1 {
 color: gray;
 font-size: 22px;
 }
-.row h2 {
+.rowcard h2 {
     font-size: 15px;
 }
 .column {
@@ -218,13 +225,7 @@ font-size: 22px;
   }
   
   /* Remove extra left and right margins, due to padding in columns */
-.row {
-    padding-top: 40px;
-      display:flex;
-      justify-content: center;
-      flex-direction: row;
-      text-align: center;
-  }
+
   
   /* Clear floats after the columns */
 .row:after {
