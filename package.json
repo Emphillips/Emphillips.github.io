@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Emphillips/portfolio_site_two/issues"
   },
-  "homepage": "https://github.com/Emphillips/portfolio_site_two#readme"
+  "homepage": "https://github.com/Emphillips/portfolio_site_two#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.3"
+  }
 }
