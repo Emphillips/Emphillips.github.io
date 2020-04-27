@@ -176,6 +176,9 @@ header table {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    -webkit-display: flex;
+    -moz-display: flex;
+    -ms--display: flex;
   
 }
 .sub-container {
@@ -183,6 +186,9 @@ header table {
     flex-direction: row;
     justify-content: center;
     margin-bottom:100px;
+    -webkit-display: flex;
+    -moz-display: flex;
+    -ms--display: flex;
 }
 .sub-container h2{
    font-size: medium; 
@@ -212,6 +218,9 @@ header table {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    -webkit-display: flex;
+    -moz-display: flex;
+    -ms--display: flex;
 }
 .want-info {
     text-align: center;
@@ -262,7 +271,10 @@ header table {
     height: 200px;
     flex-direction: row;
     justify-content: center;
-    padding-bottom: 200px; 
+    padding-bottom: 200px;
+    -webkit-display: flex;
+    -moz-display: flex;
+    -ms--display: flex; 
 }
 .work-projects img {
     width:200px;
