@@ -107,7 +107,7 @@ header table {
 #top_part tr td{
     width:50%;
 }
-/* #about {
+#about {
     width:84% !important;
     height:95vh;
     display:flex;
@@ -127,7 +127,7 @@ header table {
 #about table tr td {
     width:20% !important;
     text-align:left;
-} */
+}
 .social {
     color:black;
     font-size:23px;
