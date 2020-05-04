@@ -70,11 +70,6 @@ END_OF_CONFIRMATION
 # You may need to uncomment the line below and adjust the path.
 # use lib './lib';
 
-# USER CUSTOMISATION SECTION
-# --------------------------
-# Place any custom code here
-
-
 
 # USER CUSTOMISATION << END >>
 # ----------------------------
