@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Emphillips/portfolio_site_two#readme",
   "dependencies": {
-    "nodemailer": "^6.4.3"
+    "nodemailer": "^6.4.16"
   }
 }
